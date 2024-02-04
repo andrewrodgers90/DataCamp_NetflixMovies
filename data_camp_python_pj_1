@@ -1,8 +1,7 @@
 # Importing pandas and matplotlib
+
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# Start coding!
 
 # Load CSV file as netflix_df
 
