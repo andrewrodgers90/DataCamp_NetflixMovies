@@ -1,4 +1,4 @@
-This is the first project on the "Python for Data Science" careers track on DataCamp.
+This is the first project on the "Data Analyst with Python" career track on DataCamp.
 Below is the background information, data, and task given in the project.
 
 **BACKGROUND INFORMATION**
